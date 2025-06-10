@@ -1,0 +1,2 @@
+nom,contact_nom,contact_service,email,telephone,adresse_facturation,preference_facturation,tva_rate,numero_commande_requis
+Entreprise Example,Jean Dupont,Logistique,contact@example.com,0123456789,"123 Rue Example, 75001 Paris",mensuelle,20,false
